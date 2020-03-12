@@ -27,14 +27,14 @@ Traduzindo o e-mail, ficou assim:
 
 Alguém ou algum por meio de script, sabendo que possuo conta nessa empresa, me mandou uma solicitação de troca de senha para tentar obter acesso ao jogo. Detalhe, o acesso foi originado de algum ip da Malásia.
 
-/  Para muitos gamers, pode ser comum e até rotineiro receber e-mails assim, e até por ser um tanto inofensivo, passe despercebido ou seja ignorado para a maioria das pessoas.
+/ Para muitos gamers, pode ser comum e até rotineiro receber e-mails assim, e até por ser um tanto inofensivo, passe despercebido ou seja ignorado para a maioria das pessoas.
 
-Portanto, o que deve ser feito neste caso? *
-* Use senhas únicas para cada site, nunca repita senhas
-* Use autenticação em 2 etapas (2FA)
-* Use um app de autenticação, como o Google Authenticator ou Authy
-* SMS apenas como último recurso
-* Reduza os “app connections”, serviços que se conectam no seu email e redes sociais para ler as informações
+Portanto, o que deve ser feito neste caso? \*
 
-** Trecho copiado do artigo criado pelo @Marco Gomes, aonde ele detalha não somente o que fazer para proteger a sua conta em sites ou serviços, mas na utilização da internet e dispositivos em geral, portanto vale a pena dar uma olhada.
+- Use senhas únicas para cada site, nunca repita senhas
+- Use autenticação em 2 etapas (2FA)
+- Use um app de autenticação, como o Google Authenticator ou Authy
+- SMS apenas como último recurso
+- Reduza os “app connections”, serviços que se conectam no seu email e redes sociais para ler as informações
 
+\*\* Trecho copiado do artigo criado pelo @Marco Gomes, aonde ele detalha não somente o que fazer para proteger a sua conta em sites ou serviços, mas na utilização da internet e dispositivos em geral, portanto vale a pena dar uma olhada.
