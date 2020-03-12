@@ -1,57 +1,57 @@
 module.exports = {
-  siteTitle: 'Brittany Chiang | Software Engineer',
+  siteTitle: 'Luiz Felipe Weber | Consultor de tecnologia',
   siteDescription:
-    'Brittany Chiang is a software engineer based in Boston, MA who specializes in developing (and occasionally designing) exceptional, high-quality websites and applications.',
+    'Luiz Weber é um consultor de tecnologia, nascido em Cascavel / PR o qual é especializado em customizações em CMS como Joomla, Wordpress e e-commerces como Magento ou Virtuemart. Também trabalha com consultoria em Big Data, é entusiasta da área de segurança da informação e possui conhecimentos em criação de páginas web e prototipação com Adobe XD.',
   siteKeywords:
-    'Brittany Chiang, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
-  siteUrl: 'https://brittanychiang.com',
-  siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Brittany Chiang',
-  location: 'Boston, MA',
-  email: 'brittany.chiang@gmail.com',
-  github: 'https://github.com/bchiang7',
-  twitterHandle: '@bchiang7',
+    'Luiz Weber, Luiz, Weber, luizwbr, front-end, back-end, web developer, javascript, php, design, e-commerce, joomla, wordpress, magento, virtuemart',
+  siteUrl: 'http://weber.eti.br',
+  siteLanguage: 'pt_BR',
+  googleAnalyticsID: 'UA-160445569-1',
+  googleVerification: '',
+  name: 'Luiz Felipe Weber',
+  location: 'Cascavel, PR',
+  email: 'luizwbr@gmail.com',
+  github: 'https://github.com/luizwbr',
+  twitterHandle: '@luizwbr',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/luizwbr',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
+      url: 'https://www.linkedin.com/in/luizwbr',
     },
     {
       name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      url: 'https://codepen.io/luizwbr',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
+      url: 'https://www.instagram.com/luizwbr',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://twitter.com/luizwbr',
     },
   ],
 
   navLinks: [
     {
-      name: 'About',
+      name: 'Sobre',
       url: '/#about',
     },
     {
-      name: 'Experience',
+      name: 'Experiência',
       url: '/#jobs',
     },
     {
-      name: 'Work',
+      name: 'Projetos',
       url: '/#projects',
     },
     {
-      name: 'Contact',
-      url: '/#contact',
+      name: 'Contato',
+      url: '/#contacto',
     },
   ],
 

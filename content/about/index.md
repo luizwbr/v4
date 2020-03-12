@@ -1,18 +1,27 @@
 ---
-title: 'About Me'
+title: 'Sobre mim'
 avatar: './me.jpg'
 skills:
   - JavaScript (ES6+)
   - HTML & (S)CSS
   - React
-  - Vue
   - Node.js
-  - Express
-  - NativeScript
----
+  - PHP
+  - Java
+  - NiFi
+  - PostgreSQL
+  - Shell script
+  - SqlMap
+  - NMap
+  - Adobe XD
+---Olá, sou um desenvolvedor de software nascido em Cascavel / PR.
 
-Hello! I'm Brittany, a software engineer based in Boston, MA who enjoys building things that live on the internet. I develop exceptional websites and web apps that provide intuitive, pixel-perfect user interfaces with efficient and modern backends.
+Tenho compromisso com a qualidade e foco em resolver os problemas, desde os mais simples até os mais complexos.
 
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+Já trabalhei com a construção de e-commerces e sites em geral, mas agora com foco na área de Big Data, integração entre sistemas e segurança da informação.
 
-Here are a few technologies I've been working with recently:
+Me formei na Unipar Cascavel no curso de Sistemas de Informação e tenho pós-gradução em Engenharia de Software com Ênfase em Testes.
+
+Estou disponível para trabalhos de freelance e consultoria em tecnologia em geral.
+
+Algumas tecnologias e ferramentas que trabalho trabalhei recentemente:
