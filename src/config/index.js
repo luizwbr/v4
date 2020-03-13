@@ -51,7 +51,7 @@ module.exports = {
     },
     {
       name: 'Contato',
-      url: '/#contacto',
+      url: '/#contact',
     },
   ],
 

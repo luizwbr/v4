@@ -1,22 +1,20 @@
 ---
-
 title: 'Sobre mim'
 avatar: './me.jpg'
 skills:
-
-- JavaScript (ES6+)
-- HTML & (S)CSS
-- React
-- Node.js
-- PHP
-- Java
-- NiFi
-- PostgreSQL
-- Shell script
-- SqlMap
-- NMap
-- Adobe XD
-  ---Olá, sou um desenvolvedor de software nascido em Cascavel / PR.
+  - JavaScript (ES6+)
+  - HTML & (S)CSS
+  - React
+  - Node.js
+  - PHP
+  - Java
+  - NiFi
+  - PostgreSQL
+  - Shell script
+  - SqlMap
+  - NMap
+  - Adobe XD
+---Olá, sou um desenvolvedor de software nascido em Cascavel / PR.
 
 Tenho compromisso com a qualidade e foco em resolver os problemas, desde os mais simples até os mais complexos.
 
