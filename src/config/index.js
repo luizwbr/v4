@@ -6,7 +6,7 @@ module.exports = {
     'Luiz Weber, Luiz, Weber, luizwbr, front-end, back-end, web developer, javascript, php, design, e-commerce, joomla, wordpress, magento, virtuemart',
   siteUrl: 'http://weber.eti.br',
   siteLanguage: 'pt_BR',
-  googleAnalyticsID: 'UA-160445569-1',
+  googleAnalyticsID: 'UA-10598838-1',
   googleVerification: '',
   name: 'Luiz Felipe Weber',
   location: 'Cascavel, PR',
