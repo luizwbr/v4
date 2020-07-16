@@ -17,7 +17,7 @@ const theme = {
     pink: '#FF647F',
     yellow: '#FFC464',
     orange: '#FF9E64',
-    green: '#64ffda',
+    green: '#0076a8',
     blue: '#71AFFF',
     darkBlue: '#1D7FFC',
     highlight: 'rgba(41, 61, 90, 0.99)',
@@ -55,7 +55,7 @@ const theme = {
   tabWidth: 120,
   radius: 3,
 
-  gradient: `linear-gradient(0.4turn, #64d6ff, #64ffda)`,
+  gradient: `linear-gradient(0.4turn, #64d6ff, #0076a8)`,
 
   loaderDelay: `6`,
 

@@ -56,7 +56,7 @@ module.exports = {
   ],
 
   navHeight: 100,
-  greenColor: '#64ffda',
+  greenColor: '#0076a8',
   navyColor: '#0a192f',
   darkNavyColor: '#020c1b',
 

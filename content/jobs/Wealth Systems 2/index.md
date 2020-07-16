@@ -3,7 +3,7 @@ date: '2020-03-12'
 title: 'Desenvolvedor de Software Sênior IV'
 company: 'Wealth Systems'
 location: 'Cascavel, PR'
-range: 'Julho 2017 - Março 2020'
+range: 'Julho 2017 - Atualmente'
 url: 'https://www.wssim.com.br/'
 ---
 
