@@ -1,7 +1,7 @@
 import React from 'react';
 
 const IconLoader = () => (
-  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="margin: auto; background: rgb(255, 255, 255); display: block; shape-rendering: auto;" width="197px" height="197px" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid">
+  <svg xmlns="http://www.w3.org/2000/svg" style="margin: auto; background: rgb(255, 255, 255); display: block; shape-rendering: auto;" width="197px" height="197px" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid">
   <circle cx="50" cy="50" r="28.1829" fill="none" stroke="#0076a8" stroke-width="3">
     <animate attributeName="r" repeatCount="indefinite" dur="0.9803921568627451s" values="0;37" keyTimes="0;1" keySplines="0 0.2 0.8 1" calcMode="spline" begin="-0.49019607843137253s"></animate>
     <animate attributeName="opacity" repeatCount="indefinite" dur="0.9803921568627451s" values="1;0" keyTimes="0;1" keySplines="0.2 0 0.8 1" calcMode="spline" begin="-0.49019607843137253s"></animate>
